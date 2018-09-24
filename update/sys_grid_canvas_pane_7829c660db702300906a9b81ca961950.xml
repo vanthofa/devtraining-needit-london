@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab 2">aa088aecdb302300906a9b81ca9619f6</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 24-09-2018 10:39:22">70294a20db702300906a9b81ca9619c1</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>vanthad</sys_created_by>
+        <sys_created_on>2018-09-24 00:39:22</sys_created_on>
+        <sys_id>7829c660db702300906a9b81ca961950</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>aa088aecdb302300906a9b81ca9619f6</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_7829c660db702300906a9b81ca961950</sys_update_name>
+        <sys_updated_by>vanthad</sys_updated_by>
+        <sys_updated_on>2018-09-24 00:40:18</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

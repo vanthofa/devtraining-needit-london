@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Needit Application">a6f64aecdb302300906a9b81ca9619c5</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>681ccaf9c0a8016400b98a06818d57c7</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>vanthad</sys_created_by>
+        <sys_created_on>2018-09-24 00:41:37</sys_created_on>
+        <sys_id>75a98a60db702300906a9b81ca961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681ccaf9c0a8016400b98a06818d57c7</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_75a98a60db702300906a9b81ca961949</sys_update_name>
+        <sys_updated_by>vanthad</sys_updated_by>
+        <sys_updated_on>2018-09-24 00:41:37</sys_updated_on>
+        <type>3</type>
+        <user display_value="Joe Employee">681ccaf9c0a8016400b98a06818d57c7</user>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>
